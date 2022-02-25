@@ -9,3 +9,6 @@
 echo "This is my sample Jenkins Project"
 
 uname -r
+
+lsblk
+echo "i need my 6 figure job OH lord Helps me"
