@@ -7,3 +7,5 @@
 
 
 echo "This is my sample Jenkins Project"
+
+uname -r
