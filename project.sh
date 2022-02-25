@@ -13,3 +13,4 @@ uname -r
 lsblk
 echo "i need my 6 figure job OH lord Helps me"
 lscpu
+free -m
