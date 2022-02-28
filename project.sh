@@ -15,3 +15,5 @@ echo "i need my 6 figure job OH lord Helps me"
 lscpu
 free -m
 echo "Lord Helps me!! Amen"
+
+nproc
