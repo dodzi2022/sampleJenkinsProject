@@ -20,3 +20,4 @@ nproc
 cat /etc/*release
 cat /etc/os-release
 uname -a
+uname -v
