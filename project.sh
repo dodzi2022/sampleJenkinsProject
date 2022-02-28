@@ -17,3 +17,4 @@ free -m
 echo "Lord Helps me!! Amen"
 
 nproc
+cat /etc/*release
