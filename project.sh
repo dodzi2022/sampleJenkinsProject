@@ -21,5 +21,4 @@ cat /etc/*release
 cat /etc/os-release
 uname -a
 uname -v
-lsof -i:8080
 echo "Lord Helps me!! Amen"
