@@ -18,3 +18,4 @@ echo "Lord Helps me!! Amen"
 
 nproc
 cat /etc/*release
+cat /etc/os-release
