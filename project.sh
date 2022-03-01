@@ -22,3 +22,4 @@ cat /etc/os-release
 uname -a
 uname -v
 echo "Lord Helps me!! Amen"
+uname -r
