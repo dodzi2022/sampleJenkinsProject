@@ -25,3 +25,4 @@ echo "Lord Helps me!! Amen"
 uname -a
 uname -m
 echo "Lord Helps me!! Amen"
+echo "Lord Helps me!! Amen"
