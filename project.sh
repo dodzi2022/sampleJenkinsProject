@@ -24,4 +24,4 @@ uname -v
 echo "Lord Helps me!! Amen"
 uname -a
 uname -m
-lsof -i:5000
+
